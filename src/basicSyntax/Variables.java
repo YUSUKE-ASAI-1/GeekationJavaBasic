@@ -14,6 +14,7 @@ public class Variables {
 	    
 	    System.out.println(firstName + "整数は"+ num1 + middleName);
 	    System.out.println(firstName + "小数は" + num2 + middleName);
+
 	}
 
 }
